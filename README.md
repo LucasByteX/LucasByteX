@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Lucas%20Daris%20de%20Souza&fontSize=40&fontColor=e94560&fontAlignY=38&desc=Estudante%20apaixonado%20por%20Embarcados%20%26%20Web&descAlignY=58&descColor=a8b2d8" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Lucas+Daris+de+Souza;Engenharia+de+Computa%C3%A7%C3%A3o+%7C+IFPB;Embarcados+%2B+Web+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -97,5 +97,5 @@ Acredito que hardware e software juntos têm o poder de resolver problemas reais
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+![](https://komarev.com/ghpvc/?username=LucasByteX&color=e94560&style=flat-square&label=Visitantes+no+perfil)
 </div>
