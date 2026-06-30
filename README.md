@@ -12,7 +12,7 @@
 
 🎓 Graduando em **Engenharia de Computação** — IFPB Campus Campina Grande (8º Período)  
 🔬 Pesquisador no projeto **AgroSmart** — Controle de Peso em Rebanhos via Microcontrolador  
-🌱 Atualmente explorando: **Linux Embarcado · PHP · STM32**  
+🌱 Atualmente explorando: **Linux Embarcado · PHP · JavaScript**  
 📍 Campina Grande, Paraíba, Brasil
 
 </div>
