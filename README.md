@@ -65,7 +65,7 @@ Acredito que hardware e software juntos têm o poder de resolver problemas reais
 | [🍽️ Sistema-de-Restaurante](https://github.com/LucasByteX/Sistema-de-Restaurante) | Sistema de gerenciamento de restaurante — projeto acadêmico de POO no IFPB | C++ |
 | [🎮 The-Revange-of-Descendent](https://github.com/LucasByteX/The-Revange-of-Descendent) | Jogo 2D desenvolvido com padrões de projeto | C++ |
 | [📱 MinhaGrade](https://github.com/LucasByteX/MinhaGrade) | App React Native que informa disciplinas disponíveis baseado em pré-requisitos — UFCG | JavaScript |
-| [💧 Irrigacao](https://github.com/LucasByteX/Irrigacao) | Sistema de irrigação automatizada com microcontrolador | C++ |
+| [🚌 UnibusApp](https://github.com/LucasByteX/UnibusApp) | App React Native para organizar o transporte universitário | JavaScript |
 | [🐧 Embedded Linux](https://github.com/LucasByteX/Embedded_Linux_project_CG) | Atividades e projetos de Linux Embarcado | C / HTML |
 
 ---
