@@ -61,7 +61,6 @@ Acredito que hardware e software juntos têm o poder de resolver problemas reais
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [🌾 AgroSmart](https://github.com/LucasByteX) | Plataforma de controle de peso em rebanhos via microcontrolador | C / ESP32 / IoT |
 | [🍽️ Sistema-de-Restaurante](https://github.com/LucasByteX/Sistema-de-Restaurante) | Sistema de gerenciamento de restaurante — projeto acadêmico de POO no IFPB | C++ |
 | [🎮 The-Revange-of-Descendent](https://github.com/LucasByteX/The-Revange-of-Descendent) | Jogo 2D desenvolvido com padrões de projeto | C++ |
 | [📱 MinhaGrade](https://github.com/LucasByteX/MinhaGrade) | App React Native que informa disciplinas disponíveis baseado em pré-requisitos — UFCG | JavaScript |
